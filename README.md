@@ -1,2 +1,3 @@
 # HelloWorld
- Primeiro repositorio entendendo Git e Github
+ Primeiro repositorio, entendendo Git e Github
+ 
